@@ -1,0 +1,29 @@
+-- Log file for all messages not properly caught --
+
+22:59:06.222   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+22:59:13.530   NetworkManager::DispatchEvents() - Warning - Time between calls was 3254 ms
+23:06:03.415   NetworkManager::DispatchEvents() - Warning - Time between calls was 3445 ms
+23:44:53.237   NetworkManager::DispatchEvents() - Warning - Time between calls was 4016 ms
+23:50:01.845   NetworkManager::DispatchEvents() - Warning - Time between calls was 4154 ms
+00:13:06.770   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+00:13:14.327   NetworkManager::DispatchEvents() - Warning - Time between calls was 2969 ms
+00:22:38.752   NetworkManager::DispatchEvents() - Warning - Time between calls was 3182 ms
+00:24:50.381   NetworkManager::DispatchEvents() - Warning - Time between calls was 3149 ms
+00:30:33.079   NetworkManager::DispatchEvents() - Warning - Time between calls was 3080 ms
+01:01:35.653   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+01:01:45.299   NetworkManager::DispatchEvents() - Warning - Time between calls was 3055 ms
+01:12:17.912   NetworkManager::DispatchEvents() - Warning - Time between calls was 3152 ms
+01:15:05.584   NetworkManager::DispatchEvents() - Warning - Time between calls was 3183 ms
+01:18:52.209   NetworkManager::DispatchEvents() - Warning - Time between calls was 3112 ms
+01:52:11.139   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+01:52:20.109   NetworkManager::DispatchEvents() - Warning - Time between calls was 3070 ms
+02:35:33.930   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+02:35:40.820   NetworkManager::DispatchEvents() - Warning - Time between calls was 3087 ms
+02:40:35.035   NetworkManager::DispatchEvents() - Warning - Time between calls was 2542 ms
+02:40:35.308   NetworkManagerInternal::FlushJobs - flushing remaining (1) dynamic jobs:
+02:40:35.308   Dynamic job SetDataAsync still running
+02:40:35.556   NetworkManagerInternal waited 248 ms for async jobs to complete successfully
+02:40:35.556   NetworkManagerInternal::FlushJobs - flushing remaining (1) dynamic jobs:
+02:40:35.556   Dynamic job LogoutAsync still running
+02:40:36.068   NetworkManagerInternal waited 513 ms for async jobs to complete successfully
+02:40:36.683   Unloading step: [Additional crash information]

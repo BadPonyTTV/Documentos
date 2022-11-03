@@ -1,0 +1,76 @@
+LuaDataStore =  
+{
+	campaign_progress =  
+	{
+		subcampaign_unlocks =  
+		{
+			hundred = true,
+			moscow = true,
+			english = true,
+			mongol = true,
+		},
+		mission_complete_timestamps =  
+		{
+		},
+		mission_rewards =  
+		{
+			gdm_chp1_moscow = true,
+			ang_chp4_lincoln = true,
+			gdm_chp4_smolensk = true,
+			ang_chp1_hastings = true,
+			ang_chp4_rochester = true,
+			ang_chp3_wallingford = true,
+			gdm_chp3_ugra = true,
+			ang_chp2_bremule = true,
+			gdm_chp3_novgorod = true,
+			ang_chp2_bayeux = true,
+			ang_chp1_york = true,
+			gdm_chp2_kulikovo = true,
+			ang_chp3_lincoln = true,
+			gdm_chp2_tribute = true,
+			ang_chp2_tinchebray = true,
+			gdm_chp3_moscow = true,
+			ang_chp4_dover = true,
+		},
+		mission_unlocks =  
+		{
+			gdm_chp1_moscow = true,
+			hun_chp1_combat30 = true,
+			hun_chp3_patay = true,
+			mon_chp1_juyong = true,
+			ang_chp4_lincoln = true,
+			gdm_chp4_smolensk = true,
+			ang_chp1_hastings = true,
+			ang_chp4_rochester = true,
+			ang_chp3_wallingford = true,
+			hun_chp2_pontvallain = true,
+			mon_chp3_xiangyang_1273 = true,
+			ang_chp2_bayeux = true,
+			ang_chp3_lincoln = true,
+			gdm_chp3_moscow = true,
+			gdm_chp4_kazan = true,
+			hun_chp3_orleans = true,
+			gdm_chp3_novgorod = true,
+			mon_chp1_zhongdu = true,
+			hun_chp4_rouen = true,
+			hun_chp4_formigny = true,
+			mon_chp3_xiangyang_1267 = true,
+			mon_chp3_lumen_shan = true,
+			gdm_chp3_ugra = true,
+			ang_chp2_bremule = true,
+			mon_chp2_mohi = true,
+			mon_chp2_liegnitz = true,
+			mon_chp2_kiev = true,
+			mon_chp1_kalka_river = true,
+			ang_chp1_york = true,
+			hun_chp2_cocherel = true,
+			gdm_chp2_kulikovo = true,
+			gdm_chp2_tribute = true,
+			ang_chp2_tinchebray = true,
+			hun_chp1_paris = true,
+			ang_chp4_dover = true,
+		},
+		next_mission_to_unlock = "gdm_chp4_kazan",
+	},
+}
+

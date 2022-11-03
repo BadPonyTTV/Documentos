@@ -1,0 +1,32 @@
+-- Log file for all messages not properly caught --
+
+00:37:07.251   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+00:37:21.355   NetworkManager::DispatchEvents() - Warning - Time between calls was 2872 ms
+00:44:07.929   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+00:44:15.616   NetworkManager::DispatchEvents() - Warning - Time between calls was 2838 ms
+00:47:35.620   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+00:47:42.505   NetworkManager::DispatchEvents() - Warning - Time between calls was 2870 ms
+00:51:22.444   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+00:51:28.079   NetworkManager::DispatchEvents() - Warning - Time between calls was 2870 ms
+01:09:51.720   NetworkManager::DispatchEvents() - Warning - Time between calls was 2961 ms
+01:16:28.629   NetworkManager::DispatchEvents() - Warning - Time between calls was 3064 ms
+01:38:30.061   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+01:38:37.435   NetworkManager::DispatchEvents() - Warning - Time between calls was 2920 ms
+01:42:32.057   NetworkManager::DispatchEvents() - Warning - Time between calls was 3775 ms
+01:56:32.304   NetworkManager::DispatchEvents() - Warning - Time between calls was 3886 ms
+02:02:29.554   NetworkManager::DispatchEvents() - Warning - Time between calls was 3969 ms
+02:13:36.283   NetworkManager::DispatchEvents() - Warning - Time between calls was 3342 ms
+02:13:48.788   NetworkManager::DispatchEvents() - Warning - Time between calls was 2951 ms
+02:13:53.796   NetworkManagerInternal::FlushJobs - flushing remaining (12) dynamic jobs:
+02:13:53.796   Dynamic job SetDataAsync still running
+02:13:53.796   Dynamic job CommunityEventChallengeProgressCache still running
+02:13:53.796   Dynamic job CommunityEventChallengeProgressCache still running
+02:13:53.796   Dynamic job CommunityEventChallengeProgressCache still running
+02:13:53.796   Dynamic job CommunityEventChallengeProgressCache still running
+02:13:53.796   Dynamic job MatchHistoryCache still running
+02:13:53.796   Dynamic job ItemBundlesCache still running
+02:13:53.796   Dynamic job SaveOfflineUserDataJob still running
+02:13:53.796   Dynamic job MatchHistoryCache still running
+02:13:53.796   Dynamic job ExtensionDoExternalCallEvent still running
+02:13:53.796   Dynamic job WorldWideSetPresenceAsync still running
+02:13:53.796   Dynamic job WorldwideSetPresencePropertyAsync still running

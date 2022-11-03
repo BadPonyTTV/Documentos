@@ -1,0 +1,25 @@
+-- Log file for all messages not properly caught --
+
+10:36:16.558   SessionManager::Process() - Warning - Time between calls was 529 ms, time waiting for lock was 519 ms
+10:36:17.725   SessionManager::Process() - Warning - Time between calls was 1146 ms, time waiting for lock was 1136 ms
+10:37:16.060   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+10:37:31.909   NetworkManager::DispatchEvents() - Warning - Time between calls was 13263 ms
+10:50:17.794   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+10:50:34.458   NetworkManager::DispatchEvents() - Warning - Time between calls was 13847 ms
+11:06:44.911   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+11:07:01.895   NetworkManager::DispatchEvents() - Warning - Time between calls was 13799 ms
+11:13:44.099   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+11:14:02.548   NetworkManager::DispatchEvents() - Warning - Time between calls was 13747 ms
+11:22:27.803   NetworkManager::DispatchEvents() - Warning - Time between calls was 3172 ms
+11:44:34.686   NetworkManager::DispatchEvents() - Warning - Time between calls was 2556 ms
+12:00:13.286   NetworkManager::DispatchEvents() - Warning - Time between calls was 2778 ms
+12:00:19.990   BattleServerRelay::Process - 232 ms between calls!
+12:00:19.990   BattleServerRelay::Process - 232 ms between calls!
+12:00:19.990   BattleServerRelay::Process - 232 ms between calls!
+12:00:19.990   BattleServerRelay::Process - 232 ms between calls!
+12:00:19.991   BattleServerRelay::Process - 231 ms between calls!
+12:00:19.991   BattleServerRelay::Process - 232 ms between calls!
+12:00:19.992   BattleServerRelay::Process - 233 ms between calls!
+12:00:19.992   BattleServerRelay::Process - 233 ms between calls!
+12:00:19.992   BattleServerRelay::Process - 233 ms between calls!
+12:01:52.343   SessionManager::Process() - Warning - Time between calls was 3497 ms, time waiting for lock was 0 ms

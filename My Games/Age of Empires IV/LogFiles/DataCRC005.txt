@@ -1,0 +1,3740 @@
+Total CRC: [ f5483d5f ]
+modinterface: 
+{
+  attrib: 
+  {
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+  }
+  attrib: 
+  {
+  }
+  attrib: 
+  {
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+  }
+  attrib: 
+  {
+  }
+  attrib: 
+  {
+  }
+  attrib: 
+  {
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+  }
+  attrib: 
+  {
+  }
+  attrib: 
+  {
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+    archive: 
+    {
+      id: [ PÔÿÛ4 ]
+      version: [  à«¬. ]
+    }
+  }
+}
+moddllsetup: 
+{
+  cheatsallowed: [ true <1> ]
+  cheatsused: [ false <0> ]
+  playersassigned: [ 3 ]
+  playermax: [ 8 ]
+  maptype: [ 0 ]
+  mapgenoptions: 
+  {
+    biome: [ -1 ]
+    layout: [ -1 ]
+    size: [ -1 ]
+    player_starts_close_or_far: [ 1 ]
+    mapgen_random_seed: [ 0 ]
+  }
+  option_mapstartlocations: [ 1 ]
+  option_gamespeed: [ 2 ]
+  option_winconditionoptions: 
+  {
+    sectionkey: [ section_starting_conditions ]
+    section: 
+    {
+      optionkey: [ option_resources ]
+      optionvalue: [ 0 ]
+    }
+  }
+  option_ability: [ 0 ]
+  option_unit: [ 0 ]
+  option_upgrade: [ 0 ]
+  playersetuparray: 
+  {
+    index: [ 0 ]
+    human: [ true <1> ]
+    team: [ 0 ]
+    race: [ 133008 ]
+    aidiff: [ 1 ]
+    slotindex: [ 0 ]
+    startingposition: [ 0 ]
+    playercolourindex: [ -2 ]
+    index: [ 1 ]
+    human: [ false <0> ]
+    team: [ 1 ]
+    race: [ 129267 ]
+    aidiff: [ 1 ]
+    slotindex: [ 1 ]
+    startingposition: [ 1 ]
+    playercolourindex: [ -2 ]
+    index: [ 2 ]
+    human: [ false <0> ]
+    team: [ 2 ]
+    race: [ 133008 ]
+    aidiff: [ 1 ]
+    slotindex: [ 2 ]
+    startingposition: [ 2 ]
+    playercolourindex: [ -2 ]
+  }
+  playermap: 
+  {
+    index: [ 0 ]
+    setupindex: [ 0 ]
+    simid: [ 1000 ]
+    index: [ 1 ]
+    setupindex: [ 1 ]
+    simid: [ 1001 ]
+    index: [ 2 ]
+    setupindex: [ 2 ]
+    simid: [ 1002 ]
+  }
+  assignedteams: 
+  {
+    index: [ 0 ]
+    teamid: [ 0 ]
+    index: [ 1 ]
+    teamid: [ 1 ]
+    index: [ 2 ]
+    teamid: [ 2 ]
+    index: [ 3 ]
+    teamid: [ -1 ]
+    index: [ 4 ]
+    teamid: [ -1 ]
+    index: [ 5 ]
+    teamid: [ -1 ]
+    index: [ 6 ]
+    teamid: [ -1 ]
+    index: [ 7 ]
+    teamid: [ -1 ]
+    index: [ 8 ]
+    teamid: [ -1 ]
+    index: [ 9 ]
+    teamid: [ -1 ]
+    index: [ 10 ]
+    teamid: [ -1 ]
+    index: [ 11 ]
+    teamid: [ -1 ]
+    index: [ 12 ]
+    teamid: [ -1 ]
+    index: [ 13 ]
+    teamid: [ -1 ]
+    index: [ 14 ]
+    teamid: [ -1 ]
+    index: [ 15 ]
+    teamid: [ -1 ]
+  }
+}
+simstaticworld: 
+{
+  randomseed: [ 323119117 ]
+}
+blueprints: 
+{
+  blueprints: [ -99914643 ]
+  blueprints attributes count: [ 55076 ]
+  blueprints attributes: [ 82033762 ]
+  blueprints: [ -1182644881 ]
+  blueprints attributes count: [ 22924 ]
+  blueprints attributes: [ 1041127402 ]
+}
+scar: 
+{
+  scar: 
+  {
+    crc: [ -1512108036 ]
+    script state: 
+    {
+    }
+  }
+}
+gameticks: [ 0 ]
+randomstream: 
+{
+  randomstreamseed: [ 323119117 ]
+  randomstreamindex: [ 106 ]
+}
+randomflow: 
+{
+}
+passtypemap: 
+{
+  coordinate system: 
+  {
+    num tiles x: [ 32 ]
+    num tiles y: [ 32 ]
+    cell side length: [ 1.000000000e+00 <3f800000> ]
+  }
+  pass type data: 
+  {
+    num pass types: [ 3 ]
+    pass type datum: 
+    {
+      num portal graphs: [ 1 ]
+      portalgraph: 
+      {
+        num portals: [ 2397 ]
+        num portal connections: [ 9808 ]
+      }
+    }
+    pass type datum: 
+    {
+      num portal graphs: [ 3 ]
+      portalgraph: 
+      {
+        num portals: [ 341 ]
+        num portal connections: [ 1736 ]
+      }
+      portalgraph: 
+      {
+        num portals: [ 326 ]
+        num portal connections: [ 1638 ]
+      }
+      portalgraph: 
+      {
+        num portals: [ 314 ]
+        num portal connections: [ 1546 ]
+      }
+    }
+    pass type datum: 
+    {
+      num portal graphs: [ 2 ]
+      portalgraph: 
+      {
+        num portals: [ 2397 ]
+        num portal connections: [ 9808 ]
+      }
+      portalgraph: 
+      {
+        num portals: [ 2687 ]
+        num portal connections: [ 10054 ]
+      }
+    }
+    num merge graphs: [ 3 ]
+    mergedportalgraph: 
+    {
+      mergegraphdatum: 
+      {
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 6 ]
+        tile merge connections count: [ 6 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+      }
+      mergegraphdatum: 
+      {
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 6 ]
+        tile merge connections count: [ 6 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+      }
+    }
+    mergedportalgraph: 
+    {
+      mergegraphdatum: 
+      {
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 6 ]
+        tile merge connections count: [ 6 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+      }
+      mergegraphdatum: 
+      {
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 6 ]
+        tile merge connections count: [ 6 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+      }
+    }
+    mergedportalgraph: 
+    {
+      mergegraphdatum: 
+      {
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 6 ]
+        tile merge connections count: [ 6 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+      }
+      mergegraphdatum: 
+      {
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 6 ]
+        tile merge connections count: [ 6 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 0 ]
+        tile merge connections count: [ 0 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 5 ]
+        tile merge connections count: [ 5 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 1 ]
+        tile merge connections count: [ 1 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 3 ]
+        tile merge connections count: [ 3 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+        tile merge keys count: [ 4 ]
+        tile merge connections count: [ 4 ]
+        tile merge keys count: [ 2 ]
+        tile merge connections count: [ 2 ]
+      }
+    }
+  }
+  tileoverridecompositor: 
+  {
+    num tile overrides: [ 9 ]
+    next override id: [ 2 ]
+  }
+}
+teleportentityoutofobb: 
+{
+}
+playerlist: 
+{
+  player: 
+  {
+    id: [ 1000 ]
+    entitiessize: [ 30 ]
+    resources: 
+    {
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+    }
+    population: 
+    {
+      currentpopulation: [ 0.000000000e+00 <0> ]
+      currentpopulation: [ 0.000000000e+00 <0> ]
+      currentpopulation: [ 0.000000000e+00 <0> ]
+    }
+    type: upgradecontainer: 
+    {
+      player: [ 1000 ]
+      upgradesqueued: [ 0 ]
+      upgradescompleted: [ 3 ]
+      upgradescompleted pbgkey: [ 129874 ]
+      upgd_comp_pend_delete: [ false <0> ]
+      upgradescompleted pbgkey: [ 108171 ]
+      upgd_comp_pend_delete: [ false <0> ]
+      upgradescompleted pbgkey: [ 108172 ]
+      upgd_comp_pend_delete: [ false <0> ]
+    }
+    abilitycount: [ 0 ]
+    type: abilitycontainer: 
+    {
+      casterplayerid: [ 1000 ]
+      abilities:: 
+      {
+      }
+      shared timers:: 
+      {
+      }
+      initial recharges:: [ 0 ]
+    }
+  }
+  player: 
+  {
+    id: [ 1001 ]
+    entitiessize: [ 21 ]
+    resources: 
+    {
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+    }
+    population: 
+    {
+      currentpopulation: [ 0.000000000e+00 <0> ]
+      currentpopulation: [ 0.000000000e+00 <0> ]
+      currentpopulation: [ 0.000000000e+00 <0> ]
+    }
+    type: upgradecontainer: 
+    {
+      player: [ 1001 ]
+      upgradesqueued: [ 0 ]
+      upgradescompleted: [ 3 ]
+      upgradescompleted pbgkey: [ 129874 ]
+      upgd_comp_pend_delete: [ false <0> ]
+      upgradescompleted pbgkey: [ 108171 ]
+      upgd_comp_pend_delete: [ false <0> ]
+      upgradescompleted pbgkey: [ 108172 ]
+      upgd_comp_pend_delete: [ false <0> ]
+    }
+    abilitycount: [ 0 ]
+    type: abilitycontainer: 
+    {
+      casterplayerid: [ 1001 ]
+      abilities:: 
+      {
+      }
+      shared timers:: 
+      {
+      }
+      initial recharges:: [ 0 ]
+    }
+  }
+  player: 
+  {
+    id: [ 1002 ]
+    entitiessize: [ 0 ]
+    resources: 
+    {
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+      resource: [ 0.000000000e+00 <0> ]
+    }
+    population: 
+    {
+      currentpopulation: [ 0.000000000e+00 <0> ]
+      currentpopulation: [ 0.000000000e+00 <0> ]
+      currentpopulation: [ 0.000000000e+00 <0> ]
+    }
+    type: upgradecontainer: 
+    {
+      player: [ 1002 ]
+      upgradesqueued: [ 0 ]
+      upgradescompleted: [ 3 ]
+      upgradescompleted pbgkey: [ 129874 ]
+      upgd_comp_pend_delete: [ false <0> ]
+      upgradescompleted pbgkey: [ 108171 ]
+      upgd_comp_pend_delete: [ false <0> ]
+      upgradescompleted pbgkey: [ 108172 ]
+      upgd_comp_pend_delete: [ false <0> ]
+    }
+    abilitycount: [ 0 ]
+    type: abilitycontainer: 
+    {
+      casterplayerid: [ 1002 ]
+      abilities:: 
+      {
+      }
+      shared timers:: 
+      {
+      }
+      initial recharges:: [ 0 ]
+    }
+  }
+}
+statichierarchicalgrid: 
+{
+  crc insert: [ 807295707 ]
+  crc remove: [ 0 ]
+  crc hash: [ 0 ]
+}
+walkablesurfacesystem: 
+{
+  crc: [ -1733422186 ]
+}
+simterraincovermap: [ 0 ]
+simterraincovermap quant: [ 0 ]
+relationships: 
+{
+  gameteams: 
+  {
+    teamid: [ 0 ]
+    teamid: [ 1 ]
+    teamid: [ 2 ]
+    teamid: [ -1 ]
+    teamid: [ -1 ]
+    teamid: [ -1 ]
+    teamid: [ -1 ]
+    teamid: [ -1 ]
+    teamid: [ -1 ]
+    teamid: [ -1 ]
+    teamid: [ -1 ]
+    teamid: [ -1 ]
+    teamid: [ -1 ]
+    teamid: [ -1 ]
+    teamid: [ -1 ]
+    teamid: [ -1 ]
+  }
+  relations: 
+  {
+    playermatrix: 
+    {
+      val: [ 2 ]
+      val: [ 1 ]
+      val: [ 1 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 1 ]
+      val: [ 2 ]
+      val: [ 1 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 1 ]
+      val: [ 1 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 3 ]
+      val: [ 2 ]
+    }
+    relationsset: [ false <0> ]
+  }
+}
+reputations: 
+{
+  reputationmatrix: 
+  {
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 4.900000000e+01 <42440000> ]
+    val: [ 4.900000000e+01 <42440000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 4.900000000e+01 <42440000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 4.900000000e+01 <42440000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 4.900000000e+01 <42440000> ]
+    val: [ 4.900000000e+01 <42440000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 5.000000000e+01 <42480000> ]
+    val: [ 1.000000000e+02 <42c80000> ]
+  }
+}
+visionsharing: 
+{
+  visionmatrix: 
+  {
+    playermatrix: 
+    {
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+      val: [ 0 ]
+    }
+  }
+}
+globalstatetreemodule: 
+{
+  number of non deterministic ids: [ 15 ]
+}
+districtsmodule: 
+{
+  districts: 
+  {
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9017 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9018 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9019 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9020 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9021 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9022 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9023 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9024 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9025 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9026 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9027 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9028 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ false <0> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9029 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ false <0> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9030 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9031 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9032 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9033 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 1 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9034 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 0 ]
+      isneutral: [ false <0> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9050 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 0 ]
+      isneutral: [ false <0> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9051 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 0 ]
+      isneutral: [ false <0> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9052 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 0 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9053 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 0 ]
+      isneutral: [ false <0> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9065 ]
+      }
+    }
+    district_1: 
+    {
+      ownerid: [ 0 ]
+      isneutral: [ true <1> ]
+      rating: [ 0 ]
+      currententities: 
+      {
+        entityid: [ 9075 ]
+      }
+    }
+  }
+  districtgenerators: 
+  {
+    districtgenerator_0: 
+    {
+      districtid: [ 1 ]
+      entityid: [ 9017 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -4.400000000e+01 <c2300000> ]
+        y: [ -2.000000000e+01 <c1a00000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 53 ]
+        y: [ 59 ]
+      }
+      bounds: 
+      {
+        left: [ 52 ]
+        right: [ 54 ]
+        top: [ 58 ]
+        bottom: [ 60 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 2 ]
+      entityid: [ 9018 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ 2.000000000e+01 <41a00000> ]
+        y: [ 1.680000000e+02 <43280000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 69 ]
+        y: [ 106 ]
+      }
+      bounds: 
+      {
+        left: [ 68 ]
+        right: [ 70 ]
+        top: [ 105 ]
+        bottom: [ 107 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 3 ]
+      entityid: [ 9019 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -1.600000000e+01 <c1800000> ]
+        y: [ -1.160000000e+02 <c2e80000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 60 ]
+        y: [ 35 ]
+      }
+      bounds: 
+      {
+        left: [ 59 ]
+        right: [ 61 ]
+        top: [ 34 ]
+        bottom: [ 36 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 4 ]
+      entityid: [ 9020 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -3.200000000e+01 <c2000000> ]
+        y: [ -1.240000000e+02 <c2f80000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 56 ]
+        y: [ 33 ]
+      }
+      bounds: 
+      {
+        left: [ 55 ]
+        right: [ 57 ]
+        top: [ 32 ]
+        bottom: [ 34 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 5 ]
+      entityid: [ 9021 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ 0.000000000e+00 <0> ]
+        y: [ 1.400000000e+02 <430c0000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 64 ]
+        y: [ 99 ]
+      }
+      bounds: 
+      {
+        left: [ 63 ]
+        right: [ 65 ]
+        top: [ 98 ]
+        bottom: [ 100 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 6 ]
+      entityid: [ 9022 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -4.000000000e+01 <c2200000> ]
+        y: [ -4.000000000e+01 <c2200000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 54 ]
+        y: [ 54 ]
+      }
+      bounds: 
+      {
+        left: [ 53 ]
+        right: [ 55 ]
+        top: [ 53 ]
+        bottom: [ 55 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 7 ]
+      entityid: [ 9023 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -3.126049423e+01 <c1fa157e> ]
+        y: [ -7.937059784e+01 <c29ebdbf> ]
+      }
+      gridcoord: 
+      {
+        x: [ 56 ]
+        y: [ 44 ]
+      }
+      bounds: 
+      {
+        left: [ 55 ]
+        right: [ 57 ]
+        top: [ 43 ]
+        bottom: [ 45 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 8 ]
+      entityid: [ 9024 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -5.052466583e+01 <c24a1942> ]
+        y: [ -1.257387619e+02 <c2fb7a3f> ]
+      }
+      gridcoord: 
+      {
+        x: [ 51 ]
+        y: [ 32 ]
+      }
+      bounds: 
+      {
+        left: [ 50 ]
+        right: [ 52 ]
+        top: [ 31 ]
+        bottom: [ 33 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 9 ]
+      entityid: [ 9025 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -1.120000000e+02 <c2e00000> ]
+        y: [ 2.400000000e+01 <41c00000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 36 ]
+        y: [ 70 ]
+      }
+      bounds: 
+      {
+        left: [ 34 ]
+        right: [ 38 ]
+        top: [ 68 ]
+        bottom: [ 72 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 10 ]
+      entityid: [ 9026 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -6.600000000e+01 <c2840000> ]
+        y: [ 7.800000000e+01 <429c0000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 47 ]
+        y: [ 83 ]
+      }
+      bounds: 
+      {
+        left: [ 46 ]
+        right: [ 49 ]
+        top: [ 82 ]
+        bottom: [ 85 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 11 ]
+      entityid: [ 9027 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -1.140000000e+02 <c2e40000> ]
+        y: [ 9.000000000e+01 <42b40000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 35 ]
+        y: [ 86 ]
+      }
+      bounds: 
+      {
+        left: [ 34 ]
+        right: [ 37 ]
+        top: [ 85 ]
+        bottom: [ 88 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 12 ]
+      entityid: [ 9028 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -6.200000000e+01 <c2780000> ]
+        y: [ 4.600000000e+01 <42380000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 48 ]
+        y: [ 75 ]
+      }
+      bounds: 
+      {
+        left: [ 47 ]
+        right: [ 50 ]
+        top: [ 74 ]
+        bottom: [ 77 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 13 ]
+      entityid: [ 9029 ]
+      isrootgenerator: [ true <1> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -6.400000000e+01 <c2800000> ]
+        y: [ -8.000000000e+00 <c1000000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 48 ]
+        y: [ 62 ]
+      }
+      bounds: 
+      {
+        left: [ 44 ]
+        right: [ 51 ]
+        top: [ 58 ]
+        bottom: [ 65 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 14 ]
+      entityid: [ 9030 ]
+      isrootgenerator: [ true <1> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -1.560000000e+02 <c31c0000> ]
+        y: [ 1.120000000e+02 <42e00000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 25 ]
+        y: [ 92 ]
+      }
+      bounds: 
+      {
+        left: [ 21 ]
+        right: [ 28 ]
+        top: [ 88 ]
+        bottom: [ 95 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 15 ]
+      entityid: [ 9031 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -1.120000000e+02 <c2e00000> ]
+        y: [ -4.000000000e+00 <c0800000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 36 ]
+        y: [ 63 ]
+      }
+      bounds: 
+      {
+        left: [ 35 ]
+        right: [ 37 ]
+        top: [ 62 ]
+        bottom: [ 64 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 16 ]
+      entityid: [ 9032 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -1.320000000e+02 <c3040000> ]
+        y: [ 4.000000000e+00 <40800000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 31 ]
+        y: [ 65 ]
+      }
+      bounds: 
+      {
+        left: [ 30 ]
+        right: [ 32 ]
+        top: [ 64 ]
+        bottom: [ 66 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 17 ]
+      entityid: [ 9033 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -9.200000000e+01 <c2b80000> ]
+        y: [ 0.000000000e+00 <0> ]
+      }
+      gridcoord: 
+      {
+        x: [ 41 ]
+        y: [ 64 ]
+      }
+      bounds: 
+      {
+        left: [ 40 ]
+        right: [ 42 ]
+        top: [ 63 ]
+        bottom: [ 65 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 18 ]
+      entityid: [ 9034 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 1 ]
+      worldpoint: 
+      {
+        x: [ -1.400000000e+02 <c30c0000> ]
+        y: [ -3.600000000e+01 <c2100000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 29 ]
+        y: [ 55 ]
+      }
+      bounds: 
+      {
+        left: [ 28 ]
+        right: [ 30 ]
+        top: [ 54 ]
+        bottom: [ 56 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 19 ]
+      entityid: [ 9050 ]
+      isrootgenerator: [ true <1> ]
+      ownerid: [ 0 ]
+      worldpoint: 
+      {
+        x: [ 7.600000000e+01 <42980000> ]
+        y: [ 1.240000000e+02 <42f80000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 83 ]
+        y: [ 95 ]
+      }
+      bounds: 
+      {
+        left: [ 79 ]
+        right: [ 87 ]
+        top: [ 91 ]
+        bottom: [ 99 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 20 ]
+      entityid: [ 9051 ]
+      isrootgenerator: [ true <1> ]
+      ownerid: [ 0 ]
+      worldpoint: 
+      {
+        x: [ 2.800000000e+01 <41e00000> ]
+        y: [ -3.200000000e+01 <c2000000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 71 ]
+        y: [ 56 ]
+      }
+      bounds: 
+      {
+        left: [ 67 ]
+        right: [ 75 ]
+        top: [ 52 ]
+        bottom: [ 60 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 21 ]
+      entityid: [ 9052 ]
+      isrootgenerator: [ true <1> ]
+      ownerid: [ 0 ]
+      worldpoint: 
+      {
+        x: [ 4.800000000e+01 <42400000> ]
+        y: [ 4.000000000e+01 <42200000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 76 ]
+        y: [ 74 ]
+      }
+      bounds: 
+      {
+        left: [ 72 ]
+        right: [ 80 ]
+        top: [ 70 ]
+        bottom: [ 78 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 22 ]
+      entityid: [ 9053 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 0 ]
+      worldpoint: 
+      {
+        x: [ 8.800000000e+01 <42b00000> ]
+        y: [ 5.200000000e+01 <42500000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 86 ]
+        y: [ 77 ]
+      }
+      bounds: 
+      {
+        left: [ 84 ]
+        right: [ 88 ]
+        top: [ 75 ]
+        bottom: [ 79 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 23 ]
+      entityid: [ 9065 ]
+      isrootgenerator: [ true <1> ]
+      ownerid: [ 0 ]
+      worldpoint: 
+      {
+        x: [ 8.596950531e+01 <42abf063> ]
+        y: [ -1.761802673e+02 <c3302e26> ]
+      }
+      gridcoord: 
+      {
+        x: [ 85 ]
+        y: [ 19 ]
+      }
+      bounds: 
+      {
+        left: [ 81 ]
+        right: [ 89 ]
+        top: [ 15 ]
+        bottom: [ 23 ]
+      }
+    }
+    districtgenerator_0: 
+    {
+      districtid: [ 24 ]
+      entityid: [ 9075 ]
+      isrootgenerator: [ false <0> ]
+      ownerid: [ 0 ]
+      worldpoint: 
+      {
+        x: [ 1.080000000e+02 <42d80000> ]
+        y: [ 2.400000000e+01 <41c00000> ]
+      }
+      gridcoord: 
+      {
+        x: [ 91 ]
+        y: [ 70 ]
+      }
+      bounds: 
+      {
+        left: [ 89 ]
+        right: [ 93 ]
+        top: [ 68 ]
+        bottom: [ 72 ]
+      }
+    }
+  }
+}
+formationsquadgroupmodule: 
+{
+  formationsquadgroupcount: [ 0 ]
+}
+basicfogofwarmodule: 
+{
+  crc: [ 0 ]
+  m_forcerevealallunblockedareas: [ false <0> ]
+  fogofwarterrainblockerssum: [ -265683621 ]
+  player1000: 
+  {
+    fogofwarsightexploredsum: [ -378507599 ]
+  }
+  player1001: 
+  {
+    fogofwarsightexploredsum: [ -378507599 ]
+  }
+  player1002: 
+  {
+    fogofwarsightexploredsum: [ -378507599 ]
+  }
+}
+entityvisibilitymodule: 
+{
+}
+clearablegameobjectsmodule: 
+{
+  obbstoclearcount: [ 106 ]
+}

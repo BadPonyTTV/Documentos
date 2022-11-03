@@ -1,0 +1,18 @@
+LuaDataStore =  
+{
+	campaign =  
+	{
+		loaded = true,
+		subcampaign_seens =  
+		{
+			mongol = true,
+			english = true,
+			hundred = true,
+			moscow = true,
+		},
+		created = true,
+		version = 2.00000,
+		selected_subcampaign = "moscow",
+	},
+}
+

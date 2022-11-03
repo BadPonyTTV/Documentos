@@ -1,0 +1,48 @@
+-- Log file for all messages not properly caught --
+
+17:47:19.499   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+17:47:26.371   NetworkManager::DispatchEvents() - Warning - Time between calls was 2853 ms
+18:02:56.893   NetworkManager::DispatchEvents() - Warning - Time between calls was 2981 ms
+18:10:40.993   NetworkManager::DispatchEvents() - Warning - Time between calls was 3034 ms
+18:18:51.314   NetworkManager::DispatchEvents() - Warning - Time between calls was 3249 ms
+18:29:55.733   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+18:30:02.573   NetworkManager::DispatchEvents() - Warning - Time between calls was 2937 ms
+19:02:59.258   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+19:03:05.366   NetworkManager::DispatchEvents() - Warning - Time between calls was 2919 ms
+19:06:51.331   NetworkManager::DispatchEvents() - Warning - Time between calls was 2792 ms
+19:18:13.933   NetworkManager::DispatchEvents() - Warning - Time between calls was 3196 ms
+20:12:07.313   NetworkManager::DispatchEvents() - Warning - Time between calls was 4118 ms
+20:33:17.781   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+20:33:24.274   NetworkManager::DispatchEvents() - Warning - Time between calls was 2954 ms
+21:38:42.050   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+21:38:50.927   NetworkManager::DispatchEvents() - Warning - Time between calls was 2903 ms
+21:46:53.757   WorldwideAutomatch2Service::OnHostComplete - we're not polling at the moment, ignoring
+21:47:01.333   NetworkManager::DispatchEvents() - Warning - Time between calls was 2969 ms
+22:12:31.446   NetworkManagerInternal::FlushJobs - flushing remaining (13) dynamic jobs:
+22:12:31.446   Dynamic job SetDataAsync still running
+22:12:31.446   Dynamic job CommunityEventChallengeProgressCache still running
+22:12:31.446   Dynamic job CommunityEventChallengeProgressCache still running
+22:12:31.446   Dynamic job CommunityEventChallengeProgressCache still running
+22:12:31.446   Dynamic job CommunityEventChallengeProgressCache still running
+22:12:31.446   Dynamic job CommunityEventChallengeProgressCache still running
+22:12:31.446   Dynamic job CommunityEventChallengeProgressCache still running
+22:12:31.446   Dynamic job MatchHistoryCache still running
+22:12:31.446   Dynamic job GetAchievementsCache still running
+22:12:31.446   Dynamic job ItemBundlesCache still running
+22:12:31.446   Dynamic job SaveOfflineUserDataJob still running
+22:12:31.446   Dynamic job MatchHistoryCache still running
+22:12:31.446   Dynamic job ItemLoadoutCache still running
+22:12:36.449   NetworkManagerInternal::FlushJobs - flushing remaining (11) dynamic jobs:
+22:12:36.449   Dynamic job CommunityEventChallengeProgressCache still running
+22:12:36.449   Dynamic job CommunityEventChallengeProgressCache still running
+22:12:36.449   Dynamic job MatchHistoryCache still running
+22:12:36.449   Dynamic job ItemBundlesCache still running
+22:12:36.449   Dynamic job SaveOfflineUserDataJob still running
+22:12:36.449   Dynamic job MatchHistoryCache still running
+22:12:36.449   Dynamic job ItemLoadoutCache still running
+22:12:36.449   Dynamic job WorldWideSetPresenceAsync still running
+22:12:36.449   Dynamic job WorldwideSetPresencePropertyAsync still running
+22:12:36.449   Dynamic job SetDataAsync still running
+22:12:36.449   Dynamic job LogoutAsync still running
+22:12:41.452   AsyncJobDriver::~AsyncJobDriver() - dynamically allocated job SaveOfflineUserDataJob is still running
+22:12:42.032   Unloading step: [Additional crash information]

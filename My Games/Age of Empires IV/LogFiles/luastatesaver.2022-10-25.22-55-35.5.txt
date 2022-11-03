@@ -1,0 +1,360 @@
+*****SaveLuaState
++Added m_refs[1]
+**Writing ref list
+**Writing ref 1
+Ignoring table entry  key:next, value:function
+Ignoring table entry  key:error, value:function
+Ignoring table entry  key:print, value:function
+Ignoring table entry  key:_PRINT, value:function
+Ignoring table entry  key:assert, value:function
+Ignoring table entry  key:loadfile, value:function
+Ignoring table entry  key:_ALERT, value:function
+Writing key: LuaDataStore, ref:0
+Writing value: table, ref:0
++Added m_refs[2]
+Ignoring table entry  key:tostring, value:function
+Ignoring table entry  key:import, value:function
+Ignoring table entry  key:rawset, value:function
+Ignoring table entry  key:_G, value:table
+Ignoring table entry  key:setmetatable, value:function
+Ignoring table entry  key:tonumber, value:function
+Ignoring table entry  key:rawequal, value:function
+Ignoring table entry  key:rawlen, value:function
+Ignoring table entry  key:pcall, value:function
+Ignoring table entry  key:collectgarbage, value:function
+Ignoring table entry  key:type, value:function
+Ignoring table entry  key:_ImportCallback, value:function
+Ignoring table entry  key:xpcall, value:function
+Ignoring table entry  key:select, value:function
+Ignoring table entry  key:_VERSION, value:Lua 5.3
+Ignoring table entry  key:load, value:function
+Ignoring table entry  key:ipairs, value:function
+Ignoring table entry  key:rawget, value:function
+Ignoring table entry  key:pairs, value:function
+Ignoring table entry  key:getmetatable, value:function
+Ignoring table entry  key:dofile, value:function
+Writing nil key for last entry
+**Writing ref 2
+Writing key: TrainingData, ref:0
+Writing value: table, ref:0
++Added m_refs[3]
+Writing nil key for last entry
+**Writing ref 3
+Writing key: HighlightAgeUpIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[4]
+Writing key: bandbox_selectionMZ, ref:0
+Writing value: table, ref:0
++Added m_refs[5]
+Writing key: goal_rescue_leader, ref:0
+Writing value: table, ref:0
++Added m_refs[6]
+Writing key: send_gold, ref:0
+Writing value: table, ref:0
++Added m_refs[7]
+Writing key: GatherGold, ref:0
+Writing value: table, ref:0
++Added m_refs[8]
+Writing key: AttackMoveSequence, ref:0
+Writing value: table, ref:0
++Added m_refs[9]
+Writing key: BuildPopCap, ref:0
+Writing value: table, ref:0
++Added m_refs[10]
+Writing key: build_palisade, ref:0
+Writing value: table, ref:0
++Added m_refs[11]
+Writing key: ControlGroupsSequence, ref:0
+Writing value: table, ref:0
++Added m_refs[12]
+Writing key: attackMove, ref:0
+Writing value: table, ref:0
++Added m_refs[13]
+Writing key: HighlightSpearmanIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[14]
+Writing key: campaign_ang_chp1_hastings_select_all, ref:0
+Writing value: table, ref:0
++Added m_refs[15]
+Writing key: campaign_ang_chp1_hastings_leader_ability, ref:0
+Writing value: table, ref:0
++Added m_refs[16]
+Writing key: build_wonder, ref:0
+Writing value: table, ref:0
++Added m_refs[17]
+Writing key: HighlightStablesIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[18]
+Writing key: gather_food, ref:0
+Writing value: table, ref:0
++Added m_refs[19]
+Writing key: HighlightArcheryRangeIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[20]
+Writing key: unitupgrade, ref:0
+Writing value: table, ref:0
++Added m_refs[21]
+Writing key: palings, ref:0
+Writing value: table, ref:0
++Added m_refs[22]
+Writing key: HighlightAgeUpCastleIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[23]
+Writing key: HighlightlongbowmenIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[24]
+Writing key: MZ_IdleVillagers, ref:0
+Writing value: table, ref:0
++Added m_refs[25]
+Writing key: scout_select, ref:0
+Writing value: table, ref:0
++Added m_refs[26]
+Writing key: build_barracks, ref:0
+Writing value: table, ref:0
++Added m_refs[27]
+Writing key: GatherWood, ref:0
+Writing value: table, ref:0
++Added m_refs[28]
+Writing key: HighlightVillagersIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[29]
+Writing key: build_cavalry, ref:0
+Writing value: table, ref:0
++Added m_refs[30]
+Writing key: pan_camera, ref:0
+Writing value: table, ref:0
++Added m_refs[31]
+Writing key: HighlightLumberIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[32]
+Writing key: single_selection, ref:0
+Writing value: table, ref:0
++Added m_refs[33]
+Writing key: HighlightScoutIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[34]
+Writing key: GatherFood, ref:0
+Writing value: table, ref:0
++Added m_refs[35]
+Writing key: move_unit, ref:0
+Writing value: table, ref:0
++Added m_refs[36]
+Writing key: campaign_ang_chp1_hastings_archers, ref:0
+Writing value: table, ref:0
++Added m_refs[37]
+Writing key: height_enabled, ref:0
+Writing value: table, ref:0
++Added m_refs[38]
+Writing key: HighlightMineIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[39]
+Writing key: HighlightBarracksIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[40]
+Writing key: campaign_ang_chp1_hastings_leader_revive, ref:0
+Writing value: table, ref:0
++Added m_refs[41]
+Writing key: campaign_ang_chp1_hastings_enemy_spearmen, ref:0
+Writing value: table, ref:0
++Added m_refs[42]
+Writing key: rams, ref:0
+Writing value: table, ref:0
++Added m_refs[43]
+Writing key: blacksmith, ref:0
+Writing value: table, ref:0
++Added m_refs[44]
+Writing key: HighlightMillIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[45]
+Writing key: HighlightHousesIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[46]
+Writing key: HighlightFarmIcon, ref:0
+Writing value: table, ref:0
++Added m_refs[47]
+Writing nil key for last entry
+**Writing ref 4
+Writing key: timesMet, ref:0
+Writing value: [7.000000], ref:0
+Writing nil key for last entry
+**Writing ref 5
+Writing key: timesMet, ref:0
+Writing value: [4.000000], ref:0
+Writing nil key for last entry
+**Writing ref 6
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 7
+Writing key: timesMet, ref:0
+Writing value: [2.000000], ref:0
+Writing nil key for last entry
+**Writing ref 8
+Writing key: timesMet, ref:0
+Writing value: [6.000000], ref:0
+Writing nil key for last entry
+**Writing ref 9
+Writing key: timesMet, ref:0
+Writing value: [4.000000], ref:0
+Writing nil key for last entry
+**Writing ref 10
+Writing key: timesMet, ref:0
+Writing value: [2.000000], ref:0
+Writing nil key for last entry
+**Writing ref 11
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 12
+Writing key: timesMet, ref:0
+Writing value: [5.000000], ref:0
+Writing nil key for last entry
+**Writing ref 13
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 14
+Writing key: timesMet, ref:0
+Writing value: [5.000000], ref:0
+Writing nil key for last entry
+**Writing ref 15
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 16
+Writing key: timesMet, ref:0
+Writing value: [2.000000], ref:0
+Writing nil key for last entry
+**Writing ref 17
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 18
+Writing key: timesMet, ref:0
+Writing value: [5.000000], ref:0
+Writing nil key for last entry
+**Writing ref 19
+Writing key: timesMet, ref:0
+Writing value: [2.000000], ref:0
+Writing nil key for last entry
+**Writing ref 20
+Writing key: timesMet, ref:0
+Writing value: [5.000000], ref:0
+Writing nil key for last entry
+**Writing ref 21
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 22
+Writing key: timesMet, ref:0
+Writing value: [2.000000], ref:0
+Writing nil key for last entry
+**Writing ref 23
+Writing key: timesMet, ref:0
+Writing value: [5.000000], ref:0
+Writing nil key for last entry
+**Writing ref 24
+Writing key: timesMet, ref:0
+Writing value: [5.000000], ref:0
+Writing nil key for last entry
+**Writing ref 25
+Writing key: timesMet, ref:0
+Writing value: [2.000000], ref:0
+Writing nil key for last entry
+**Writing ref 26
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 27
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 28
+Writing key: timesMet, ref:0
+Writing value: [6.000000], ref:0
+Writing nil key for last entry
+**Writing ref 29
+Writing key: timesMet, ref:0
+Writing value: [7.000000], ref:0
+Writing nil key for last entry
+**Writing ref 30
+Writing key: timesMet, ref:0
+Writing value: [4.000000], ref:0
+Writing nil key for last entry
+**Writing ref 31
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 32
+Writing key: timesMet, ref:0
+Writing value: [6.000000], ref:0
+Writing nil key for last entry
+**Writing ref 33
+Writing key: timesMet, ref:0
+Writing value: [2.000000], ref:0
+Writing nil key for last entry
+**Writing ref 34
+Writing key: timesMet, ref:0
+Writing value: [7.000000], ref:0
+Writing nil key for last entry
+**Writing ref 35
+Writing key: timesMet, ref:0
+Writing value: [6.000000], ref:0
+Writing nil key for last entry
+**Writing ref 36
+Writing key: timesMet, ref:0
+Writing value: [2.000000], ref:0
+Writing nil key for last entry
+**Writing ref 37
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 38
+Writing key: timesMet, ref:0
+Writing value: [2.000000], ref:0
+Writing nil key for last entry
+**Writing ref 39
+Writing key: timesMet, ref:0
+Writing value: [7.000000], ref:0
+Writing nil key for last entry
+**Writing ref 40
+Writing key: timesMet, ref:0
+Writing value: [5.000000], ref:0
+Writing nil key for last entry
+**Writing ref 41
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 42
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 43
+Writing key: timesMet, ref:0
+Writing value: [2.000000], ref:0
+Writing nil key for last entry
+**Writing ref 44
+Writing key: timesMet, ref:0
+Writing value: [1.000000], ref:0
+Writing nil key for last entry
+**Writing ref 45
+Writing key: timesMet, ref:0
+Writing value: [7.000000], ref:0
+Writing nil key for last entry
+**Writing ref 46
+Writing key: timesMet, ref:0
+Writing value: [5.000000], ref:0
+Writing nil key for last entry
+**Writing ref 47
+Writing key: timesMet, ref:0
+Writing value: [7.000000], ref:0
+Writing nil key for last entry
+**Writing nil ref for end
+**Writing global ref chunk 12
+Writing the registry table's numbered indices!
+Writing key: [2]
+Writing value: table
+>Found existing m_refs[1]
+**Writing nil ref for end of base registry table
+**Writing ref list - registry
+**Writing nil ref for end of registry
